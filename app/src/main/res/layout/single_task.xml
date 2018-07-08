@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:id="@+id/taskTitle"
+        android:text="TASK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
